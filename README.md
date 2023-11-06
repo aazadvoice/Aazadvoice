@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandrashekhar aazad</h1>
 <h3 align="center">Dual B.Tech + M.Tech in Electronics & Communication | Data Analytics & Machine Learning Specialist | Creating Insights That Drive Result</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aazadvoice&label=Profile%20views&color=0e75b6&style=flat" alt="aazadvoice" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aazadvoice" alt="aazadvoice" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science and Ai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aazadvoice](https://github.com/aazadvoice)
