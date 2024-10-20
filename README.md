@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandrashekhar aazad</h1>
 <h3 align="center">Dual B.Tech + M.Tech in Electronics & Communication | Data Analytics & Machine Learning Specialist | Creating Insights That Drive Result</h3>
 
-- 🌱 I’m currently learning **Data Science and Ai**
+- 🌱 I’m currently working on **Data Science and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aazadvoice](https://github.com/aazadvoice)
 
